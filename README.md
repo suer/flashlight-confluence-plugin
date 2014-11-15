@@ -20,6 +20,8 @@ Install
     baseurl: https://your-site.atlassian.net
     ```
 
+* launch Flahslight and enable this plugin
+
 Usage
 --------------
 
