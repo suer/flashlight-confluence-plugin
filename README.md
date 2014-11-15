@@ -7,20 +7,20 @@ Install
 --------------
 
 * Install and enable [Flashlight](https://github.com/nate-parrott/Flashlight/).
-* clone this plugin in your ~/Library/FlashlightPlugins/
+* Clone this plugin in your ~/Library/FlashlightPlugins/
 
     ```
     $ git clone https://github.com/suer/flashlight-confluence-plugin.git ~/Library/FlashlightPlugins/confluence.bundle
     ```
 
-* create configuration file
+* Create configuration file
 
     ```
     [confluence]
     baseurl: https://your-site.atlassian.net
     ```
 
-* launch Flahslight and enable this plugin
+* Launch Flahslight and enable this plugin
 
 Usage
 --------------
