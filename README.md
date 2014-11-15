@@ -1,7 +1,7 @@
 Confluence Plugin for Flashlight
 ====================================
 
-Search in confluence by Spotlight.
+Search in Confluence by Spotlight.
 
 Install
 --------------
