@@ -1,0 +1,2 @@
+confluence ~words(search text)
+cf ~words(search text)

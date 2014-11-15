@@ -1,0 +1,7 @@
+{
+	"name": "confluence",
+	"displayName": "Confluence",
+	"description": "Search in your confluence",
+	"examples": ["confluence search words"],
+	"categories": ["Confluence"]
+}
