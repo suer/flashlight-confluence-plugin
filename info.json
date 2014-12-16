@@ -1,7 +1,9 @@
 {
 	"name": "confluence",
 	"displayName": "Confluence",
-	"description": "Search in your confluence",
-	"examples": ["confluence search words"],
+	"displayName_ja": "Confluence",
+	"description": "Search in your Confluence",
+	"description_ja": "Confluence で検索します",
+	"examples": ["confluence 検索語"],
 	"categories": ["Confluence"]
 }
